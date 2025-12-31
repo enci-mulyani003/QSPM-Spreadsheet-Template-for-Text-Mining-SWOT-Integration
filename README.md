@@ -3,10 +3,8 @@ This repository provides a spreadsheet template for integrating
 text mining, SWOT analysis, and Quantitative Strategic Planning Matrix (QSPM).
 
 ## Spreadsheet Structure
-- Guidelines
 - IFAS–EFAS
 - SWOT
-- Strategy
 - QSPM Questionnaire
 - QSPM Matrix
 
